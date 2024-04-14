@@ -33,4 +33,24 @@
   2. 水浒传
   3. 红楼梦
   4. 西游记
-	
+
+###表格
+
+  谢鑫杰|男|21|程序员|
+  邓紫棋|女|33|歌手|
+
+###代码
+
+```cpp
+	#include<iostream>
+
+	using namespace std;
+
+	int main(void){
+
+		cout<<"Hello World!"<<endl;
+
+
+		return 0;
+	}
+```
